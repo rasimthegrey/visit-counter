@@ -6,4 +6,4 @@ services:
     restart: always #if the container stops *for any reaason* always attemp to restart
     build: . #look in the current directory for a Dockerfile and use that to build this image
     ports:
-      - "4041:8081"
+      - "8081:8081"

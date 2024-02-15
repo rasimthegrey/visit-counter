@@ -11,4 +11,4 @@ After the installation of Docker:
 - Clone the repository
 - Change directory into app's directory
 - Run `docker-compose up`
-- Open <a href="http://localhost:4041/">http://localhost:4041/</a> in your browser.
+- Open <a href="http://localhost:8081/">http://localhost:8081/</a> in your browser.
