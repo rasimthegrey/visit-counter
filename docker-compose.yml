@@ -7,3 +7,4 @@ services:
     build: . #look in the current directory for a Dockerfile and use that to build this image
     ports:
       - "8080:8080"
+      
